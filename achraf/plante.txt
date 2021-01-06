@@ -1,0 +1,4 @@
+plante1 plante1 plante1 1/1/2000 simple plante1 infertile 
+plante2 plante2 plante2 1/1/2004 simple plante2 infertile 
+plante2 plante3 plante3 1/1/2004 simple plante3 fertile 
+plante3 plante3 plante3 1/1/2000 composee plante3 infertile 
